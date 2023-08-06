@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "cobblemon_synchronizednatures",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "name": "Cobblemon Synchronized Natures",
   "description": "Causes wild Pokemon to possibly take on the nature of a nearby trainer Pokemon w/Synchronize.",
   "authors": [
