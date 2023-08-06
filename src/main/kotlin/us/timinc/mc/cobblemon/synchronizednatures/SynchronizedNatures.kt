@@ -61,7 +61,6 @@ object SynchronizedNatures : ModInitializer {
         if (naturePool.isEmpty()) {
             return
         }
-        println(naturePool[0].name)
         val pickedNature = naturePool[Random.Default.nextInt(naturePool.size)]
         props.nature = pickedNature.name.path
     }
